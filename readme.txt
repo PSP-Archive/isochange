@@ -1,0 +1,5 @@
+isochange_v3_src	by plum
+
+コンパイルするにはM33のSDKを導入する必要があります
+M33のSDKはCFW4.00M33に同梱されています
+
